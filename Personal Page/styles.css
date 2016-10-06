@@ -1,0 +1,13 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: navy;
+}
+#depression {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  border-color: black;
+  background-color: lightblue;
+  font-size: 50px;
+  color: white;
+}
